@@ -31,8 +31,8 @@ th, td {
 .right {
 	text-align: right;
 }
-tr{
-	border-bottom: 1px solid #800000;
+tr.bottom{
+	border-bottom: 5px solid #800000;
 }
 a:focus, a:hover {
 	font-style: italic;
