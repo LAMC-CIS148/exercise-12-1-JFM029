@@ -32,7 +32,7 @@ th, td {
 	text-align: right;
 }
 tr.bottom{
-	border-bottom: 5px solid #800000;
+	border-bottom: 3px solid #800000;
 }
 a:focus, a:hover {
 	font-style: italic;
