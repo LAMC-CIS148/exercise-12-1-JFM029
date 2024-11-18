@@ -29,6 +29,11 @@ th, td {
 	text-align: left;
 }
 .right {
+	font-weight: bold;
+	text-align: right;
+}
+.bold{
+	font-weight: bold;
 	text-align: right;
 }
 tr.bottom{
